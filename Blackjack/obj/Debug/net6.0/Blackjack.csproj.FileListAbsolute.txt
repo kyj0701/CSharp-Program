@@ -1,0 +1,15 @@
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\bin\Debug\net6.0\Blackjack.exe
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\bin\Debug\net6.0\Blackjack.deps.json
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\bin\Debug\net6.0\Blackjack.runtimeconfig.json
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\bin\Debug\net6.0\Blackjack.dll
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\bin\Debug\net6.0\Blackjack.pdb
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.csproj.AssemblyReference.cache
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.AssemblyInfo.cs
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.dll
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\refint\Blackjack.dll
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.pdb
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\Blackjack.genruntimeconfig.cache
+C:\Users\yejun\Desktop\sparta\C#\Program\Blackjack\obj\Debug\net6.0\ref\Blackjack.dll
