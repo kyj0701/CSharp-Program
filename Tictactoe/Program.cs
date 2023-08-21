@@ -8,10 +8,10 @@ namespace Tictactoe
 {
     internal class Program
     {
-        static char[] board = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
-        static int turn = 1;
-        static int num;
-        static int flag = 0;
+        static char[] board = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' }; // 입력하는 숫자와 board 배열의 index를 동일하게 맞추기 위해 0부터 시작
+        static int turn = 1; // 홀수 : 플레이어 1, 짝수 : 플레이어 2
+        static int num; // 각 턴마다 플레이어가 선택한 숫자
+        static int flag = 0; // 승부가 났는지 
 
         static void Main(string[] args)
         {
@@ -35,8 +35,10 @@ namespace Tictactoe
 
                 InputNumber();
 
-                while (board[num] == 'X' || board[num] == 'O')
+                while (board[num] == 'X' || board[num] == 'O') // 입력한 위치의 보드가 O나 X표시가 되어 있다면 숫자를 다시 입력
                 {
+                    // string s = String.Format("죄송합니다. {0} 행은 이미 {1}로 표시되어 있습니다.", num, board[num]);
+                    // Console.WriteLine(s);
                     Console.WriteLine("죄송합니다. {0} 행은 이미 {1}로 표시되어 있습니다.", num, board[num]);
                     InputNumber();
                 }
